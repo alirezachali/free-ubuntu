@@ -53,7 +53,7 @@
 
 | مورد | لینک |
 |:---:|:---:|
-| 🐙 ریپازیتوری گیتهاب | [github.com/technamooz/docker-ubuntu-free](https://github.com/technamooz/docker-ubuntu-free) |
+| 🐙 ریپازیتوری گیتهاب | [github.com/alirezachali/free-ubuntu](https://github.com/alirezachali/free-ubuntu) |
 | 🚂 دیپلوی روی Railway | [railway.app](https://railway.app) |
 
 ---
@@ -80,7 +80,7 @@
 
 <tr>
 <td><b>۲</b></td>
-<td>ریپازیتوری <a href="https://github.com/technamooz/docker-ubuntu-free"><code>docker-ubuntu-free</code></a> را با زدن دکمه <b>Fork</b> در حساب گیتهاب خودتان کپی کنید.</td>
+<td>ریپازیتوری <a href="https://github.com/alirezachali/free-ubuntu"><code>free-ubuntu</code></a> را با زدن دکمه <b>Fork</b> در حساب گیتهاب خودتان کپی کنید.</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <tr>
 <td><b>۴</b></td>
 <td>
-روی <b>New Project</b> کلیک کنید → گزینه <b>Deploy from GitHub repo</b> را انتخاب کنید → ریپازیتوری فورک‌شده (<code>docker-ubuntu-free</code>) را انتخاب کنید.
+روی <b>New Project</b> کلیک کنید → گزینه <b>Deploy from GitHub repo</b> را انتخاب کنید → ریپازیتوری فورک‌شده (<code>free-ubuntu</code>) را انتخاب کنید.
 </td>
 </tr>
 
@@ -171,23 +171,20 @@ sshx
 ## 📣 ما را در شبکه‌های اجتماعی دنبال کنید
 
 <p>
-  <a href="https://youtube.com/@technamooz">
-    <img src="https://img.shields.io/badge/YouTube-technamooz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://t.me/alireza_chali">
+    <img src="https://img.shields.io/badge/Telegram-Alireza_Chali-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/technamooz">
-    <img src="https://img.shields.io/badge/Telegram-technamooz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://instagram.com/alirezachali.ir">
+    <img src="https://img.shields.io/badge/Instagram-alirezachali.ir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/technamooz">
-    <img src="https://img.shields.io/badge/Instagram-technamooz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://twitter.com/alirezachali">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-alirezachali-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://twitter.com/technamooz">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-technamooz-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://alirezachali.ir">
+    <img src="https://img.shields.io/badge/Website-alirezachali.ir-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://technamooz.ir">
-    <img src="https://img.shields.io/badge/Website-technamooz.ir-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/technamooz">
-    <img src="https://img.shields.io/badge/GitHub-technamooz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/alirezachali">
+    <img src="https://img.shields.io/badge/GitHub-alirezachali-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -197,4 +194,4 @@ sshx
 
 ---
 
-<p align="center">🚀 ساخته‌شده با ❤️ توسط <b>technamooz</b> برای جامعه فارسی‌زبان علاقه‌مند به لینوکس و سرورهای رایگان</p>
+<p align="center">🚀 ساخته‌شده با ❤️ توسط <b>alirezachali</b> برای جامعه فارسی‌زبان علاقه‌مند به لینوکس و سرورهای رایگان</p>
